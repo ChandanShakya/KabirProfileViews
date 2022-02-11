@@ -17,7 +17,7 @@ echo
 > Increase current count by 1 without displaying the count
 
 
-```bash
+>```bash
 curl -sX GET $kabir -H "Accept: */*"
 # 47 per 10 seconds
 
