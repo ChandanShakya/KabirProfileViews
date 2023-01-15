@@ -39,4 +39,4 @@ This is a shell script that increases view count using curl implemented for [Kab
 > eight bash instance = 83 per 10 second
 > nine  bash instance = 80 per 10 second
 > ```
-> Somehow it is giving 160 per 10 seconds as per 2022/01/15
+> Somehow it is giving 160 per 10 seconds asof 2022/01/15
